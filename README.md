@@ -20,8 +20,8 @@ To run this project, you will need to have [Rust and Cargo installed](https://ww
 Clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/jarbbie/minigrep.git;
-cd minigrep;
+git clone https://github.com/jarbbie/minigrep.git
+cd minigrep
 ```
 
 ## How to use
